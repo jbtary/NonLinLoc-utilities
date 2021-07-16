@@ -1,2 +1,2 @@
 # NonLinLoc-utilities
-Some codes in Matlab to export-input files from NonLinLoc
+Some codes in Matlab to export-import files to work with NonLinLoc
